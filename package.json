@@ -1,7 +1,7 @@
 {
   "name": "brioux-falls",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://Devneck.github.io/brioux-falls",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

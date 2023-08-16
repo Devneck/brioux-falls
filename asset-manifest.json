@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/brioux-falls/static/css/main.073c9b0a.css",
-    "main.js": "/brioux-falls/static/js/main.17dbfdf4.js",
-    "static/js/787.8bb2ff8d.chunk.js": "/brioux-falls/static/js/787.8bb2ff8d.chunk.js",
-    "static/media/brioux-falls-logo.PNG": "/brioux-falls/static/media/brioux-falls-logo.7aa41bc6c37b6a4a31b4.PNG",
-    "index.html": "/brioux-falls/index.html",
-    "main.073c9b0a.css.map": "/brioux-falls/static/css/main.073c9b0a.css.map",
-    "main.17dbfdf4.js.map": "/brioux-falls/static/js/main.17dbfdf4.js.map",
-    "787.8bb2ff8d.chunk.js.map": "/brioux-falls/static/js/787.8bb2ff8d.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f2b30c3b.js",
+    "static/js/787.8bb2ff8d.chunk.js": "/static/js/787.8bb2ff8d.chunk.js",
+    "static/media/brioux-falls-logo.PNG": "/static/media/brioux-falls-logo.7aa41bc6c37b6a4a31b4.PNG",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f2b30c3b.js.map": "/static/js/main.f2b30c3b.js.map",
+    "787.8bb2ff8d.chunk.js.map": "/static/js/787.8bb2ff8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.17dbfdf4.js"
+    "static/js/main.f2b30c3b.js"
   ]
 }

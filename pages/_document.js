@@ -59,6 +59,8 @@ export default function Document() {
           media="all"
         />
         <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+        <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
+        <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
       </Head>
       <body>
         <Main />

@@ -31,7 +31,7 @@ const Header = () => {
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             {/* hours */}
             <div className="kf-h-group">
-              <i className="far fa-clock" /> <em>opening hours :</em> Coming 2024!{/*  06:00 am - 05:00 pm */}
+              <i className="far fa-clock" /> <em>opening hours :</em> Coming Spring 2024!{/*  06:00 am - 05:00 pm */}
             </div>
           </div>
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4 align-center">
@@ -143,7 +143,7 @@ const Header = () => {
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* hours */}
               <div className="kf-h-group">
-                <i className="far fa-clock" /> <em>opening hours :</em> Coming 2024! {/* 06:00 am - 05:00 pm */}
+                <i className="far fa-clock" /> <em>opening hours :</em> Coming Spring 2024! {/* 06:00 am - 05:00 pm */}
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">

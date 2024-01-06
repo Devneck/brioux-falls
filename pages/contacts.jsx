@@ -89,6 +89,14 @@ const Contacts = () => {
           </div>
         </div>
       </section>
+      <section className="section kf-map section-bg">
+        <div className="container">
+          <iframe src="https://storage.googleapis.com/maps-solutions-857r2siemr/locator-plus/c7he/locator-plus.html"
+            style={{ width: "100%", height: "100%", border: 0 }}
+            loading="lazy">
+          </iframe>
+        </div>
+      </section>
       {/* Section Contacts Form */}
       {/* <section className="section kf-contacts-form">
         <div className="container">

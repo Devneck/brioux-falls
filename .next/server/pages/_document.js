@@ -108,6 +108,16 @@ function Document() {
                         href: "style.css",
                         type: "text/css",
                         media: "all"
+                    }),
+                    /*#__PURE__*/ jsx_runtime.jsx("link", {
+                        rel: "icon",
+                        type: "image/svg+xml",
+                        href: "/assets/images/favicon.svg"
+                    }),
+                    /*#__PURE__*/ jsx_runtime.jsx("link", {
+                        rel: "icon",
+                        type: "image/png",
+                        href: "/assets/images/favicon.png"
                     })
                 ]
             }),

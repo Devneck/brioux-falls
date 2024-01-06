@@ -700,6 +700,24 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Souffle */}
+              <div
+                className="kf-menu-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/menu6.jpg" className="has-popup-image">
+                    <img src="images/menu6.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Savory Sunrise Souffl&eacute;</h5>
+                  <div className="subname">
+                    Dive into a delectable blend of bacon, sausage, cheese, and eggs baked to perfection – a savory delight for your morning indulgence
+                  </div>
+                </div>
+              </div>
+            </div>
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all snack food"> {/* Snacks */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"

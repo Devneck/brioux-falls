@@ -2296,6 +2296,16 @@ button.mfp-close:before, button.mfp-arrow:before {
 }
 
 /**
+* Section Map
+**/
+.kf-map {
+  overflow: hidden;
+  .container {
+    height: 20rem;
+  }
+}
+
+/**
 * Section Menu
 **/
 .section.kf-menu.kf-parallax {

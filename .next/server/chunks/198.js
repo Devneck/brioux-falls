@@ -181,7 +181,7 @@ const Footer = ()=>{
                                     /*#__PURE__*/ (0,jsx_runtime.jsxs)("ul", {
                                         children: [
                                             /*#__PURE__*/ jsx_runtime.jsx("li", {
-                                                children: "Coming 2024!"
+                                                children: "Coming Spring 2024!"
                                             }),
                                             /*#__PURE__*/ jsx_runtime.jsx("li", {
                                                 children: /*#__PURE__*/ jsx_runtime.jsx("strong", {
@@ -397,7 +397,7 @@ const Header = ()=>{
                                     /*#__PURE__*/ jsx_runtime.jsx("em", {
                                         children: "opening hours :"
                                     }),
-                                    " Coming 2024!"
+                                    " Coming Spring 2024!"
                                 ]
                             })
                         }),
@@ -597,7 +597,7 @@ const Header = ()=>{
                                             /*#__PURE__*/ jsx_runtime.jsx("em", {
                                                 children: "opening hours :"
                                             }),
-                                            " Coming 2024! "
+                                            " Coming Spring 2024! "
                                         ]
                                     })
                                 }),

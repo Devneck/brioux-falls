@@ -1,16 +1,9 @@
 {
-  "gallery_del.jsx -> @/src/components/PhotoGalleryIsotope": {
-    "id": 6416,
-    "files": [
-      "static/chunks/391.b52bd56e3165b287.js",
-      "static/chunks/416.59080ca70e7b6f0c.js"
-    ]
-  },
   "menu-coffee.jsx -> @/src/components/CoffeeMenu": {
     "id": 1022,
     "files": [
       "static/chunks/391.b52bd56e3165b287.js",
-      "static/chunks/22.9fff9fe6ec3fd156.js"
+      "static/chunks/22.d9f0219773803599.js"
     ]
   }
 }

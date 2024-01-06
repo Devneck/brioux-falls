@@ -1,7 +1,22 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/about": "pages/about.js"
+  "/about": "pages/about.html",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blog-grid_del": "pages/blog-grid_del.html",
+  "/blog-single_del": "pages/blog-single_del.html",
+  "/blog_del": "pages/blog_del.html",
+  "/gallery_del": "pages/gallery_del.html",
+  "/contacts": "pages/contacts.html",
+  "/faq_del": "pages/faq_del.html",
+  "/history_del": "pages/history_del.html",
+  "/index-2_del": "pages/index-2_del.html",
+  "/": "pages/index.html",
+  "/menu-coffee": "pages/menu-coffee.html",
+  "/menu-restaurant_del": "pages/menu-restaurant_del.html",
+  "/reservation_del": "pages/reservation_del.html",
+  "/services_del": "pages/services_del.html",
+  "/team_del": "pages/team_del.html",
+  "/404": "pages/404.html"
 }

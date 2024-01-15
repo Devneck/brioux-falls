@@ -40,8 +40,8 @@ const About = () => {
               >
                 <p>
                   Welcome to Brioux Falls, a place where great coffee is just the beginning.
-                  We're not your typical coffee shop; we're a destination within 
-                  <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link> designed for the busy on-the-go lifestyle.
+                  We're not your typical coffee shop; we're a destination
+                  within <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link> designed for the busy on-the-go lifestyle.
                 </p>
               </div>
               <div className="kf-choose-list">
@@ -106,8 +106,8 @@ const About = () => {
                       <h5 className="name">Growing With the Community</h5>
                       <div className="subname">
                         Brioux Falls is adaptable and ready to evolve with the community. 
-                        As <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link> and Falls Park continues to grow, so do we,
-                        remaining an integral part of this dynamic environment.
+                        As <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link> and <Link href="https://www.siouxfalls.gov/activities-recreation/parks-trails/parks/falls" target="_blank">Falls Park</Link> continue 
+                        to grow, so will we, remaining an integral part of this dynamic environment.
                       </div>
                     </div>
                   </li>

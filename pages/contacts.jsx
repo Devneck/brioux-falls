@@ -91,10 +91,17 @@ const Contacts = () => {
       </section>
       <section className="section kf-map section-bg">
         <div className="container">
-          <iframe src="https://storage.googleapis.com/maps-solutions-857r2siemr/locator-plus/c7he/locator-plus.html"
-            style={{ width: "100%", height: "100%", border: 0 }}
-            loading="lazy">
-          </iframe>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11566.207624830295!2d-96.7243138!3d43.5533817!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x878eb53ed5bba68f%3A0xc26fd4ab8cffda9!2sBrioux%20Falls!5e0!3m2!1sen!2sus!4v1705280810992!5m2!1sen!2sus"
+            style={{
+              width: "100%",
+              height: "100%",
+              border: 0,
+            }}
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          />
         </div>
       </section>
       {/* Section Contacts Form */}

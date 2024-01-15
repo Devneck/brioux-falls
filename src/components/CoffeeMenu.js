@@ -268,7 +268,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold coffee tea drink"> {/* Chai Tea Latte */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold tea drink"> {/* Chai Tea Latte */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -502,7 +502,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all cold energy drink"> {/* LotusLibre */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all cold energy drink"> {/* Lotus Libre */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -513,9 +513,9 @@ const CoffeeMenu = () => {
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">LotusLibre: Unleash Your Energy</h5>
+                  <h5 className="name">Lotus Libre: Unleash Your Energy</h5>
                   <div className="subname">
-                    Elevate your energy with our Lotus Energy Drink Collection. Craft your own blend with our 'LotusLibre' base and choose from an array of Lotus options and flavorful syrup combinations. Unleash the power of personalization at your fingertips!
+                    Elevate your energy with our Lotus Energy Drink Collection. Craft your own blend with our 'Lotus Libre' base and choose from an array of Lotus options and flavorful syrup combinations. Unleash the power of personalization at your fingertips!
                   </div>
                 </div>
               </div>

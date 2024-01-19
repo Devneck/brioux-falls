@@ -80,7 +80,7 @@ const Contacts = () => {
                   <h5 className="name">Phone Number</h5>
                   <ul>
                     <li>
-                      (605) 678 99XX <br />
+                      (605) 215 0636 <br />
                     </li>
                   </ul>
                 </div>

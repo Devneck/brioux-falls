@@ -57,7 +57,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <i className="las la-phone" />
-                  <em>Phone Number :</em> (605) 678 99XX
+                  <em>Phone Number :</em> (605) 215 0636
                 </li>
               </ul>
             </div>

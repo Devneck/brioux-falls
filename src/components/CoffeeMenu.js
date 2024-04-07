@@ -178,7 +178,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold coffee drink"> {/* Long Black */}
+            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold coffee drink"> {/* Long Black * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -195,7 +195,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold tea drink"> {/* Matcha Latte */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -293,7 +293,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu5.jpg" className="has-popup-image">
-                    <img src="images/menu5.jpg" alt="image" />
+                    <img src="images/blend_carm_macc.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -347,7 +347,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu2.jpg" className="has-popup-image">
-                    <img src="images/menu2.jpg" alt="image" />
+                    <img src="images/hot_choc.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -394,7 +394,43 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended coffee dessert drink"> {/* Blended Frappe */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended coffee dessert drink"> {/* Blended Mocha Frappe */}
+              <div
+                className="kf-menu-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/menu5.jpg" className="has-popup-image">
+                    <img src="images/mocha_frapp.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Blended Mocha Frappe</h5>
+                  <div className="subname">
+                    Indulge in a frosty fusion of rich coffee, ice, and cream, creating a deliciously refreshing treat
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended coffee dessert drink"> {/* Blended Caramel Frappe */}
+              <div
+                className="kf-menu-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/menu5.jpg" className="has-popup-image">
+                    <img src="images/carmel_frapp.jpg" alt="image" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Blended Caramel Frappe</h5>
+                  <div className="subname">
+                    Indulge in a frosty fusion of rich coffee, ice, and cream, creating a deliciously refreshing treat
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended coffee dessert drink"> {/* Blended Vanilla Frappe */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -405,7 +441,7 @@ const CoffeeMenu = () => {
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Blended Frappe</h5>
+                  <h5 className="name">Blended Vanilla Frappe</h5>
                   <div className="subname">
                     Indulge in a frosty fusion of rich coffee, ice, and cream, creating a deliciously refreshing treat
                   </div>
@@ -430,18 +466,18 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all cold energy drink"> {/* Shark Bait */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all cold energy drink"> {/* Shark Bite */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu3.jpg" className="has-popup-image">
-                    <img src="images/menu3.jpg" alt="image" />
+                    <img src="images/shark_bite.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Shark Bait</h5>
+                  <h5 className="name">Shark Bite</h5>
                   <div className="subname">
                     Lotus Blue Energy, strawberry syrup, and ice unite for a refreshing energy splash
                   </div>
@@ -592,7 +628,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast snack food"> {/* Scones */}
+            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast snack food"> {/* Scones * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -609,7 +645,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* Soups */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -664,7 +700,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Oatmeal Cups */}
+            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Oatmeal Cups * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -681,7 +717,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* B&G */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"

@@ -401,7 +401,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu5.jpg" className="has-popup-image">
-                    <img src="images/mocha_frapp.jpg" alt="image" />
+                    <img src="images/mocha_frappe.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -419,7 +419,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu5.jpg" className="has-popup-image">
-                    <img src="images/carmel_frapp.jpg" alt="image" />
+                    <img src="images/carmel_frappe.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -448,7 +448,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended dessert drink"> {/* Jet Tea Smoothie */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all blended dessert drink"> {/* Fruit Smoothie */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -459,7 +459,7 @@ const CoffeeMenu = () => {
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Jet Tea Smoothie</h5>
+                  <h5 className="name">Fruit Smoothie</h5>
                   <div className="subname">
                     A velvety fusion of vibrant fruit flavors, ice, and a smooth base for a refreshing, tropical delight
                   </div>

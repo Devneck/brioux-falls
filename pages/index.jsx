@@ -218,7 +218,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/menu5.jpg" alt="image" />
+                      <img src="images/blend_carm_macc.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -272,7 +272,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu2.jpg" className="has-popup-image">
-                      <img src="images/menu2.jpg" alt="image" />
+                      <img src="images/hot_choc.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -319,18 +319,18 @@ const Index = () => {
                   </div>
                 </div>
               </div> */}
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Blended Frappe */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Blended Mocha Frappe */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
                     <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/menu5.jpg" alt="image" />
+                      <img src="images/mocha_frappe.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
-                    <h5 className="name">Blended Frappe</h5>
+                    <h5 className="name">Blended Mocha Frappe</h5>
                     <div className="subname">
                       Indulge in a frosty fusion of rich coffee, ice, and cream, creating a deliciously refreshing treat
                     </div>

@@ -25,9 +25,8 @@ const Footer = () => {
               <h5>Working Hours</h5>
               <ul>
                 <li>
-                  Coming Spring 2024!
-                  {/* Daily */}
-                  {/* <em>06:00 am - 05:00pm</em> */}
+                  Mon - Friday
+                  <em>07:00 am - 04:00pm</em>
                 </li>
                 <li>
                   <strong>Thanksgiving Closed</strong>

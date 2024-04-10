@@ -2154,6 +2154,11 @@ button.mfp-close:before, button.mfp-arrow:before {
   max-width: 100%;
 }
 
+.berry img {
+  max-width: unset;
+  height: 30rem;
+}
+
 @media screen and (max-width: 992px) {
   .kf-about-image {
     margin-right: 0;
@@ -2161,6 +2166,11 @@ button.mfp-close:before, button.mfp-arrow:before {
   }
   .kf-about-image img {
     max-width: 100%;
+  }
+
+  .berry img {
+    max-width: unset;
+    height: 30rem;
   }
 }
 

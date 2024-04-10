@@ -71,50 +71,74 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="images/grid_gal1.jpg"
+                    href="images/storefront.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal1.jpg" alt="image" />
+                    <img src="images/storefront.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/grid_gal2.jpg"
+                    href="images/steam milk 2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal2.jpg" alt="image" />
+                    <img src="images/steam milk 2.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/grid_gal3.jpg"
+                    href="images/grinds.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal3.jpg" alt="image" />
+                    <img src="images/grinds.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/grid_gal4.jpg"
+                    href="images/barista.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal4.jpg" alt="image" />
+                    <img src="images/barista.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/grid_gal5.jpg"
+                    href="images/hot drink.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal5.jpg" alt="image" />
+                    <img src="images/hot drink.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/grid_gal6.jpg"
+                    href="images/pour milk.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grid_gal1.jpg" alt="image" />
+                    <img src="images/pour milk.jpg" alt="image" />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="images/shots.jpg"
+                    className="kf-image-hover has-popup-image"
+                  >
+                    <img src="images/shots.jpg" alt="image" />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="images/store 2.jpg"
+                    className="kf-image-hover has-popup-image"
+                  >
+                    <img src="images/store 2.jpg" alt="image" />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="images/pour shots 2.jpg"
+                    className="kf-image-hover has-popup-image"
+                  >
+                    <img src="images/pour shots 2.jpg" alt="image" />
                   </a>
                 </li>
               </ul>

@@ -57,10 +57,10 @@ const Index = () => {
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-2">
               <div
-                className="kf-about-image element-anim-1 scroll-animate"
+                className="kf-about-image element-anim-1 scroll-animate berry"
                 data-animate="active"
               >
-                <img src="images/berry-pink.jpg" alt="image" />
+                <img src="images/lotus - berry pink.jpg" alt="image" />
               </div>
             </div>
           </div>
@@ -163,8 +163,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu3.jpg" className="has-popup-image">
-                      <img src="images/menu3.jpg" alt="image" />
+                    <a href="images/latte.jpg" className="has-popup-image">
+                      <img src="images/latte.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -181,8 +181,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/menu4.jpg" alt="image" />
+                    <a href="images/mocha - iced.jpg" className="has-popup-image">
+                      <img src="images/mocha - iced.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -199,8 +199,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu3.jpg" className="has-popup-image">
-                      <img src="images/menu3.jpg" alt="image" />
+                    <a href="images/chai tea.jpg" className="has-popup-image">
+                      <img src="images/chai tea.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -217,8 +217,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/blend_carm_macc.jpg" alt="image" />
+                    <a href="images/caramel macch.jpg" className="has-popup-image">
+                      <img src="images/caramel macch.JPG" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -271,7 +271,7 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu2.jpg" className="has-popup-image">
+                    <a href="images/hot_choc.jpg" className="has-popup-image">
                       <img src="images/hot_choc.jpg" alt="image" />
                     </a>
                   </div>
@@ -283,20 +283,20 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Matcha Tea */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Matcha Latte */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/menu4.jpg" alt="image" />
+                    <a href="images/matcha latte - iced.jpg" className="has-popup-image">
+                      <img src="images/matcha latte - iced.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
-                    <h5 className="name">Matcha Tea</h5>
+                    <h5 className="name">Matcha Latte</h5>
                     <div className="subname">
-                      Pure and vibrant green tea powder, brewed for an authentic and invigorating flavor experience
+                      Vibrant green tea powder meets steamed milk for a rich, velvety fusion of earthy and creamy goodness
                     </div>
                   </div>
                 </div>
@@ -325,8 +325,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/mocha_frappe.jpg" alt="image" />
+                    <a href="images/frappe - mocha.jpg" className="has-popup-image">
+                      <img src="images/frappe - mocha.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -391,18 +391,18 @@ const Index = () => {
                   </div>
                 </div>
               </div> */}
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Green Apple Jolly Rancher */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Green Apple */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/menu5.jpg" alt="image" />
+                    <a href="images/lotus - green apple.jpg" className="has-popup-image">
+                      <img src="images/lotus - green apple.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
-                    <h5 className="name">Green Apple Jolly Rancher</h5>
+                    <h5 className="name">Green Apple</h5>
                     <div className="subname">
                       Lotus White Energy, sweet & sour mix, green apple, lime syrups over ice
                     </div>
@@ -469,7 +469,7 @@ const Index = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/choose_img.jpg" alt="image" />
+                <img src="images/bf - counter.jpg" alt="image" />
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 offset-lg-1 align-self-center">
@@ -561,8 +561,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal2.jpg" className="has-popup-image">
-                    <img src="images/grid_gal2.jpg" alt="image" />
+                  <a href="images/latte.jpg" className="has-popup-image">
+                    <img src="images/latte.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -576,12 +576,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal3.jpg" className="has-popup-image">
-                    <img src="images/grid_gal3.jpg" alt="image" />
+                  <a href="images/mocha - iced.jpg" className="has-popup-image">
+                    <img src="images/mocha - iced.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Cappuccino</h5>
+                  <h5 className="name">Mocha</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -591,12 +591,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal4.jpg" className="has-popup-image">
-                    <img src="images/grid_gal4.jpg" alt="image" />
+                  <a href="images/lotus - shark bite.jpg" className="has-popup-image">
+                    <img src="images/lotus - shark bite.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Iced Coffee</h5>
+                  <h5 className="name">Shark Bite</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -606,12 +606,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal5.jpg" className="has-popup-image">
-                    <img src="images/grid_gal5.jpg" alt="image" />
+                  <a href="images/black tea.jpg" className="has-popup-image">
+                    <img src="images/black tea.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Espresso</h5>
+                  <h5 className="name">Hot Tea</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -621,12 +621,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal1.jpg" className="has-popup-image">
-                    <img src="images/grid_gal1.jpg" alt="image" />
+                  <a href="images/smoothie.jpg" className="has-popup-image">
+                    <img src="images/smoothie.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Black Coffee</h5>
+                  <h5 className="name">Fruit Smoothie</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -636,12 +636,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal2.jpg" className="has-popup-image">
-                    <img src="images/grid_gal2.jpg" alt="image" />
+                  <a href="images/americano.jpg" className="has-popup-image">
+                    <img src="images/americano.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Latte</h5>
+                  <h5 className="name">Americano</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -651,12 +651,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal3.jpg" className="has-popup-image">
-                    <img src="images/grid_gal3.jpg" alt="image" />
+                  <a href="images/biscuits - full.jpg" className="has-popup-image">
+                    <img src="images/biscuits - full.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Cappuccino</h5>
+                  <h5 className="name">Biscuits & Gravy</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -666,12 +666,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal4.jpg" className="has-popup-image">
-                    <img src="images/grid_gal4.jpg" alt="image" />
+                  <a href="images/caramel macch.jpg" className="has-popup-image">
+                    <img src="images/caramel macch.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Iced Coffee</h5>
+                  <h5 className="name">Caramel Macchiato</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -681,12 +681,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal5.jpg" className="has-popup-image">
-                    <img src="images/grid_gal5.jpg" alt="image" />
+                  <a href="images/frappe - vanilla.jpg" className="has-popup-image">
+                    <img src="images/frappe - vanilla.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Espresso</h5>
+                  <h5 className="name">Blended Vanilla Frappe</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -696,12 +696,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/grid_gal1.jpg" className="has-popup-image">
-                    <img src="images/grid_gal1.jpg" alt="image" />
+                  <a href="images/sand - bagel.jpg" className="has-popup-image">
+                    <img src="images/sand - bagel.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Black Coffee</h5>
+                  <h5 className="name">Breakfast Sandwich</h5>
                 </div>
               </div>
             </SwiperSlide>

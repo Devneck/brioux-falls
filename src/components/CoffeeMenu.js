@@ -382,8 +382,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/frappe_mocha.jpg" className="has-popup-image">
-                    <img src="images/frappe_mocha.jpg" alt="image" />
+                  <a href="images/frappe-mocha.jpg" className="has-popup-image">
+                    <img src="images/frappe-mocha.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">

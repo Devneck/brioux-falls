@@ -60,7 +60,7 @@ const Index = () => {
                 className="kf-about-image element-anim-1 scroll-animate berry"
                 data-animate="active"
               >
-                <img src="images/lotus - berry pink.jpg" alt="image" />
+                <img src="images/lotus_berry pink.jpg" alt="image" />
               </div>
             </div>
           </div>
@@ -181,8 +181,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/mocha - iced.jpg" className="has-popup-image">
-                      <img src="images/mocha - iced.jpg" alt="image" />
+                    <a href="images/mocha_iced.jpg" className="has-popup-image">
+                      <img src="images/mocha_iced.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -289,8 +289,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/matcha latte - iced.jpg" className="has-popup-image">
-                      <img src="images/matcha latte - iced.jpg" alt="image" />
+                    <a href="images/matcha latte_iced.jpg" className="has-popup-image">
+                      <img src="images/matcha latte_iced.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -325,8 +325,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/frappe - mocha.jpg" className="has-popup-image">
-                      <img src="images/frappe - mocha.jpg" alt="image" />
+                    <a href="images/frappe_mocha.jpg" className="has-popup-image">
+                      <img src="images/frappe_mocha.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -397,8 +397,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/lotus - green apple.jpg" className="has-popup-image">
-                      <img src="images/lotus - green apple.jpg" alt="image" />
+                    <a href="images/lotus_green apple.jpg" className="has-popup-image">
+                      <img src="images/lotus_green apple.jpg" alt="image" />
                     </a>
                   </div>
                   <div className="desc">
@@ -469,7 +469,7 @@ const Index = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/bf - counter.jpg" alt="image" />
+                <img src="images/bf_counter.jpg" alt="image" />
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 offset-lg-1 align-self-center">
@@ -576,8 +576,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/mocha - iced.jpg" className="has-popup-image">
-                    <img src="images/mocha - iced.jpg" alt="image" />
+                  <a href="images/mocha_iced.jpg" className="has-popup-image">
+                    <img src="images/mocha_iced.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -591,8 +591,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/lotus - shark bite.jpg" className="has-popup-image">
-                    <img src="images/lotus - shark bite.jpg" alt="image" />
+                  <a href="images/lotus_shark bite.jpg" className="has-popup-image">
+                    <img src="images/lotus_shark bite.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -651,8 +651,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/biscuits - full.jpg" className="has-popup-image">
-                    <img src="images/biscuits - full.jpg" alt="image" />
+                  <a href="images/biscuits_full.jpg" className="has-popup-image">
+                    <img src="images/biscuits_full.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -681,8 +681,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/frappe - vanilla.jpg" className="has-popup-image">
-                    <img src="images/frappe - vanilla.jpg" alt="image" />
+                  <a href="images/frappe_vanilla.jpg" className="has-popup-image">
+                    <img src="images/frappe_vanilla.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -696,8 +696,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/sand - bagel.jpg" className="has-popup-image">
-                    <img src="images/sand - bagel.jpg" alt="image" />
+                  <a href="images/sand_bagel.jpg" className="has-popup-image">
+                    <img src="images/sand_bagel.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">

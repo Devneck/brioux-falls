@@ -51,7 +51,7 @@ const About = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon1.png" alt="image" />
+                      <img src="images/choose_icon1.png" alt="coffee beans icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Discovering Our Niche</h5>
@@ -68,7 +68,7 @@ const About = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon2.png" alt="image" />
+                      <img src="images/choose_icon2.png" alt="coffee cup icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Personalized Service</h5>
@@ -84,7 +84,7 @@ const About = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/service_icon2.png" alt="image" />
+                      <img src="images/service_icon2.png" alt="coffee cup icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">More Than Coffee</h5>
@@ -100,7 +100,7 @@ const About = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/parallax_icon1.png" alt="image" />
+                      <img src="images/parallax_icon1.png" alt="coffee beans icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Growing With the Community</h5>
@@ -137,7 +137,7 @@ const About = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/cupofbeans.jpg" alt="image" />
+                <img src="images/cupofbeans.jpg" alt="steaming cup of coffee beans" />
               </div>
             </div>
           </div>

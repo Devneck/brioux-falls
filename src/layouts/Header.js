@@ -66,7 +66,7 @@ const Header = () => {
             {/* logo */}
             <div className="kf-logo">
               <Link href="/">
-                <img src="images/bf-logo-white.svg" alt="image" style={{ maxHeight: 'fit-content', maxWidth: '3.5rem' }} />
+                <img src="images/bf-logo-white.svg" alt="Brioux Falls logo in white" style={{ maxHeight: 'fit-content', maxWidth: '3.5rem' }} />
               </Link>
             </div>
           </div>

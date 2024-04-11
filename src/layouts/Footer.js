@@ -12,7 +12,7 @@ const Footer = () => {
               data-animate="active"
             >
               <a href="index.html">
-                <img src="images/bf-logo-white.svg" alt="image" style={{ maxHeight: 'fit-content', maxWidth: '16rem' }}/>
+                <img src="images/bf-logo-white.svg" alt="Brioux Falls logo" style={{ maxHeight: 'fit-content', maxWidth: '16rem' }}/>
               </a>
             </div>
           </div>
@@ -74,15 +74,15 @@ const Footer = () => {
                     href="images/storefront.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/storefront.jpg" alt="image" />
+                    <img src="images/storefront.jpg" alt="storefont view" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/steam milk 2.jpg"
+                    href="images/steam_milk_2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/steam_milk_2.jpg" alt="image" />
+                    <img src="images/steam_milk_2.jpg" alt="barista steaming milk" />
                   </a>
                 </li>
                 <li>
@@ -90,7 +90,7 @@ const Footer = () => {
                     href="images/grinds.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/grinds.jpg" alt="image" />
+                    <img src="images/grinds.jpg" alt="grinder with fresh grounds" />
                   </a>
                 </li>
                 <li>
@@ -98,23 +98,23 @@ const Footer = () => {
                     href="images/barista.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/barista.jpg" alt="image" />
+                    <img src="images/barista.jpg" alt="barista hard at work" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/hot drink.jpg"
+                    href="images/hot_drink.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/hot_drink.jpg" alt="image" />
+                    <img src="images/hot_drink.jpg" alt="branded hot cup in front of tile backsplash" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/pour milk.jpg"
+                    href="images/pour_milk.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/pour_milk.jpg" alt="image" />
+                    <img src="images/pour_milk.jpg" alt="pouring milk into latte" />
                   </a>
                 </li>
                 <li>
@@ -122,23 +122,23 @@ const Footer = () => {
                     href="images/shots.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/shots.jpg" alt="image" />
+                    <img src="images/shots.jpg" alt="pulling shots of espresso from espresso machine" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/store 2.jpg"
+                    href="images/store_2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/store_2.jpg" alt="image" />
+                    <img src="images/store_2.jpg" alt="inside view of coffee shop" />
                   </a>
                 </li>
                 <li>
                   <a
-                    href="images/pour shots 2.jpg"
+                    href="images/pour_shots_2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/pour_shots_2.jpg" alt="image" />
+                    <img src="images/pour_shots_2.jpg" alt="pouring shots into cup" />
                   </a>
                 </li>
               </ul>

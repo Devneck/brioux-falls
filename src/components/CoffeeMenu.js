@@ -167,7 +167,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/americano-coffee.jpg" className="has-popup-image">
-                    <img src="images/americano-coffee.jpg" alt="image" />
+                    <img src="images/americano-coffee.jpg" alt="americano" />
                   </a>
                 </div>
                 <div className="desc">
@@ -178,24 +178,6 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold coffee drink"> {/* Long Black * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/menu1.jpg" className="has-popup-image">
-                    <img src="images/menu1.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Long Black</h5>
-                  <div className="subname">
-                    Robust espresso merged with hot water, delivering a bold, full-flavored coffee experience
-                  </div>
-                </div>
-              </div>
-            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all hot cold tea drink"> {/* Matcha Latte */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -203,7 +185,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/matcha_latte_iced.jpg" className="has-popup-image">
-                    <img src="images/matcha_latte_iced.jpg" alt="image" />
+                    <img src="images/matcha_latte_iced.jpg" alt="iced matcha latte" />
                   </a>
                 </div>
                 <div className="desc">
@@ -221,7 +203,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/latte_hot.jpg" className="has-popup-image">
-                    <img src="images/latte_hot.jpg" alt="image" />
+                    <img src="images/latte_hot.jpg" alt="hot latte" />
                   </a>
                 </div>
                 <div className="desc">
@@ -239,7 +221,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/mocha_iced.jpg" className="has-popup-image">
-                    <img src="images/mocha_iced.jpg" alt="image" />
+                    <img src="images/mocha_iced.jpg" alt="iced mocha" />
                   </a>
                 </div>
                 <div className="desc">
@@ -257,7 +239,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/chai_tea.jpg" className="has-popup-image">
-                    <img src="images/chai_tea.jpg" alt="image" />
+                    <img src="images/chai_tea.jpg" alt="chai tea latte" />
                   </a>
                 </div>
                 <div className="desc">
@@ -275,7 +257,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/caramel_macch.jpg" className="has-popup-image">
-                    <img src="images/caramel_macch.jpg" alt="image" />
+                    <img src="images/caramel_macch.jpg" alt="caramel macchiato" />
                   </a>
                 </div>
                 <div className="desc">
@@ -293,7 +275,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/hot_drink_2.jpg" className="has-popup-image">
-                    <img src="images/hot_drink_2.jpg" alt="image" />
+                    <img src="images/hot_drink_2.jpg" alt="breve" />
                   </a>
                 </div>
                 <div className="desc">
@@ -311,7 +293,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/cappuccino.jpg" className="has-popup-image">
-                    <img src="images/cappuccino.jpg" alt="image" />
+                    <img src="images/cappuccino.jpg" alt="cappuccino" />
                   </a>
                 </div>
                 <div className="desc">
@@ -329,7 +311,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/hot_choc.jpg" className="has-popup-image">
-                    <img src="images/hot_choc.jpg" alt="image" />
+                    <img src="images/hot_choc.jpg" alt="hot chocolate" />
                   </a>
                 </div>
                 <div className="desc">
@@ -347,7 +329,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/green_tea.jpg" className="has-popup-image">
-                    <img src="images/green_tea.jpg" alt="image" />
+                    <img src="images/green_tea.jpg" alt="green tea bag" />
                   </a>
                 </div>
                 <div className="desc">
@@ -365,7 +347,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/black_tea.jpg" className="has-popup-image">
-                    <img src="images/black_tea.jpg" alt="image" />
+                    <img src="images/black_tea.jpg" alt="black tea bag" />
                   </a>
                 </div>
                 <div className="desc">
@@ -383,7 +365,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/frappe-mocha.jpg" className="has-popup-image">
-                    <img src="images/frappe-mocha.jpg" alt="image" />
+                    <img src="images/frappe-mocha.jpg" alt="blended mocha frappe" />
                   </a>
                 </div>
                 <div className="desc">
@@ -401,7 +383,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/caramel_frappe.jpg" className="has-popup-image">
-                    <img src="images/caramel_frappe.jpg" alt="image" />
+                    <img src="images/caramel_frappe.jpg" alt="blended caramel frappe" />
                   </a>
                 </div>
                 <div className="desc">
@@ -419,7 +401,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/frappe-vanilla.jpg" className="has-popup-image">
-                    <img src="images/frappe-vanilla.jpg" alt="image" />
+                    <img src="images/frappe-vanilla.jpg" alt="blended vanilla frappe" />
                   </a>
                 </div>
                 <div className="desc">
@@ -437,7 +419,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/fruit-smoothie.jpg" className="has-popup-image">
-                    <img src="images/fruit-smoothie.jpg" alt="image" />
+                    <img src="images/fruit-smoothie.jpg" alt="fruit smoothie" />
                   </a>
                 </div>
                 <div className="desc">
@@ -455,7 +437,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_shark_bite.jpg" className="has-popup-image">
-                    <img src="images/lotus_shark_bite.jpg" alt="image" />
+                    <img src="images/lotus_shark_bite.jpg" alt="shark bite lotus" />
                   </a>
                 </div>
                 <div className="desc">
@@ -473,7 +455,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_berry_pink.jpg" className="has-popup-image">
-                    <img src="images/lotus_berry_pink.jpg" alt="image" />
+                    <img src="images/lotus_berry_pink.jpg" alt="the berry pink lotus" />
                   </a>
                 </div>
                 <div className="desc">
@@ -491,7 +473,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_green_apple.jpg" className="has-popup-image">
-                    <img src="images/lotus_green_apple.jpg" alt="image" />
+                    <img src="images/lotus_green_apple.jpg" alt="green apple lotus" />
                   </a>
                 </div>
                 <div className="desc">
@@ -509,7 +491,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_patriot.jpg" className="has-popup-image">
-                    <img src="images/lotus_patriot.jpg" alt="image" />
+                    <img src="images/lotus_patriot.jpg" alt="the patriot lotus" />
                   </a>
                 </div>
                 <div className="desc">
@@ -527,7 +509,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_libre.jpg" className="has-popup-image">
-                    <img src="images/lotus_libre.jpg" alt="image" />
+                    <img src="images/lotus_libre.jpg" alt="lotus libre" />
                   </a>
                 </div>
                 <div className="desc">
@@ -545,7 +527,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/poppi-soda.jpg" className="has-popup-image">
-                    <img src="images/poppi-soda.jpg" alt="image" />
+                    <img src="images/poppi-soda.jpg" alt="poppi soda cans" />
                   </a>
                 </div>
                 <div className="desc">
@@ -563,7 +545,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu1.jpg" className="has-popup-image">
-                    <img src="images/menu1.jpg" alt="image" />
+                    <img src="images/menu1.jpg" alt="muffins" />
                   </a>
                 </div>
                 <div className="desc">
@@ -581,7 +563,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu2.jpg" className="has-popup-image">
-                    <img src="images/menu2.jpg" alt="image" />
+                    <img src="images/menu2.jpg" alt="bagels" />
                   </a>
                 </div>
                 <div className="desc">
@@ -599,7 +581,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu3.jpg" className="has-popup-image">
-                    <img src="images/menu3.jpg" alt="image" />
+                    <img src="images/menu3.jpg" alt="snack tray delight" />
                   </a>
                 </div>
                 <div className="desc">
@@ -610,24 +592,6 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast snack food"> {/* Scones * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/menu3.jpg" className="has-popup-image">
-                    <img src="images/menu3.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Scones</h5>
-                  <div className="subname">
-                    Elevate your tea time with our freshly baked scones—delicate, flaky, and bursting with flavor
-                  </div>
-                </div>
-              </div>
-            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* Soups */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -635,7 +599,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/soup_bowl.jpg" className="has-popup-image">
-                    <img src="images/soup_bowl.jpg" alt="image" />
+                    <img src="images/soup_bowl.jpg" alt="soup of the day with bread" />
                   </a>
                 </div>
                 <div className="desc">
@@ -653,7 +617,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu5.jpg" className="has-popup-image">
-                    <img src="images/menu5.jpg" alt="image" />
+                    <img src="images/menu5.jpg" alt="yogurt, fruit and granola parfait cup" />
                   </a>
                 </div>
                 <div className="desc">
@@ -664,42 +628,6 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all snack food"> {/* Hummus & Pita * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/menu6.jpg" className="has-popup-image">
-                    <img src="images/menu6.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Hummus & Pita</h5>
-                  <div className="subname">
-                    Dive into a Mediterranean delight with our creamy hummus paired perfectly with soft and warm pita bread
-                  </div>
-                </div>
-              </div>
-            </div> */}
-            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Oatmeal Cups * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/menu6.jpg" className="has-popup-image">
-                    <img src="images/menu6.jpg" alt="image" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Oatmeal Cups</h5>
-                  <div className="subname">
-                    Enjoy the goodness of hearty oats in a convenient cup—nutritious, gluten-free, and ready for a quick, wholesome breakfast
-                  </div>
-                </div>
-              </div>
-            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* B&G */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -707,7 +635,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/biscuits-full.jpg" className="has-popup-image">
-                    <img src="images/biscuits-full.jpg" alt="image" />
+                    <img src="images/biscuits-full.jpg" alt="biscuits and sausage gravy" />
                   </a>
                 </div>
                 <div className="desc">
@@ -725,7 +653,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu6.jpg" className="has-popup-image">
-                    <img src="images/menu6.jpg" alt="image" />
+                    <img src="images/menu6.jpg" alt="sunrise souffle" />
                   </a>
                 </div>
                 <div className="desc">
@@ -743,7 +671,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/snack-options.jpg" className="has-popup-image">
-                    <img src="images/snack-options.jpg" alt="image" />
+                    <img src="images/snack-options.jpg" alt="assorted grab and go snack options" />
                   </a>
                 </div>
                 <div className="desc">

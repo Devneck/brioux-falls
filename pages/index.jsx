@@ -621,8 +621,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/smoothie.jpg" className="has-popup-image">
-                    <img src="images/smoothie.jpg" alt="image" />
+                  <a href="images/fruit-smoothie.jpg" className="has-popup-image">
+                    <img src="images/fruit-smoothie.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -636,8 +636,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/americano.jpg" className="has-popup-image">
-                    <img src="images/americano.jpg" alt="image" />
+                  <a href="images/americano-coffee.jpg" className="has-popup-image">
+                    <img src="images/americano-coffee.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">

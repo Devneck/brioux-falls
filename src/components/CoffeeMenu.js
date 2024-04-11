@@ -166,8 +166,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/americano.jpg" className="has-popup-image">
-                    <img src="images/americano.jpg" alt="image" />
+                  <a href="images/americano-coffee.jpg" className="has-popup-image">
+                    <img src="images/americano-coffee.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -436,8 +436,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/smoothie.jpg" className="has-popup-image">
-                    <img src="images/smoothie.jpg" alt="image" />
+                  <a href="images/fruit-smoothie.jpg" className="has-popup-image">
+                    <img src="images/fruit-smoothie.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -544,8 +544,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/poppi.jpg" className="has-popup-image">
-                    <img src="images/poppi.jpg" alt="image" />
+                  <a href="images/poppi-soda.jpg" className="has-popup-image">
+                    <img src="images/poppi-soda.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">
@@ -742,8 +742,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/snacks.jpg" className="has-popup-image">
-                    <img src="images/snacks.jpg" alt="image" />
+                  <a href="images/snack-options.jpg" className="has-popup-image">
+                    <img src="images/snack-options.jpg" alt="image" />
                   </a>
                 </div>
                 <div className="desc">

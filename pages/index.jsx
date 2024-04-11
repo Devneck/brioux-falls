@@ -49,7 +49,7 @@ const Index = () => {
                 className="kf-about-quote element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/logo_stamp.jpg" alt="image" />
+                <img src="images/logo_stamp.jpg" alt="Brioux Falls logo stamped on wood" />
                 <div>
                   Make Brioux Falls your go-to destination for quality coffee and quick bites
                 </div>
@@ -60,7 +60,7 @@ const Index = () => {
                 className="kf-about-image element-anim-1 scroll-animate berry"
                 data-animate="active"
               >
-                <img src="images/lotus_berry_pink.jpg" alt="image" />
+                <img src="images/lotus_berry_pink.jpg" alt="The Berry Pink lotus drink" />
               </div>
             </div>
           </div>
@@ -85,86 +85,14 @@ const Index = () => {
             style={{ backgroundImage: "url(images/menu_logo.png)" }}
           >
             <div className="row">
-              {/* <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Americano * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu6.jpg" className="has-popup-image">
-                      <img src="images/menu6.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Americano</h5>
-                    <div className="subname">
-                      Espresso perfection meets hot water for a bold, smooth Americano experience
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Long Black * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu1.jpg" className="has-popup-image">
-                      <img src="images/menu1.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Long Black</h5>
-                    <div className="subname">
-                      Robust espresso merged with hot water, delivering a bold, full-flavored coffee experience
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Matcha Latte * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu2.jpg" className="has-popup-image">
-                      <img src="images/menu2.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Matcha Latte</h5>
-                    <div className="subname">
-                      Vibrant green tea powder meets steamed milk for a rich, velvety fusion of earthy and creamy goodness
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Unflavored Latte * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu2.jpg" className="has-popup-image">
-                      <img src="images/menu2.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Unflavored Latte</h5>
-                    <div className="subname">
-                      Smooth espresso balanced with steamed milk, offering a pure and comforting coffee indulgence
-                    </div>
-                  </div>
-                </div>
-              </div> */}
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Flavored Latte */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Latte */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
                     <a href="images/latte_hot.jpg" className="has-popup-image">
-                      <img src="images/latte_hot.jpg" alt="image" />
+                      <img src="images/latte_hot.jpg" alt="hot latte" />
                     </a>
                   </div>
                   <div className="desc">
@@ -182,7 +110,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/mocha_iced.jpg" className="has-popup-image">
-                      <img src="images/mocha_iced.jpg" alt="image" />
+                      <img src="images/mocha_iced.jpg" alt="iced mocha" />
                     </a>
                   </div>
                   <div className="desc">
@@ -200,7 +128,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/chai_tea.jpg" className="has-popup-image">
-                      <img src="images/chai_tea.jpg" alt="image" />
+                      <img src="images/chai_tea.jpg" alt="chai tea latte" />
                     </a>
                   </div>
                   <div className="desc">
@@ -218,7 +146,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/caramel_macch.jpg" className="has-popup-image">
-                      <img src="images/caramel_macch.jpg" alt="image" />
+                      <img src="images/caramel_macch.jpg" alt="caramel macchiato" />
                     </a>
                   </div>
                   <div className="desc">
@@ -229,42 +157,6 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Breve * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu6.jpg" className="has-popup-image">
-                      <img src="images/menu6.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Breve</h5>
-                    <div className="subname">
-                      Creamy indulgence with espresso and steamed half-and-half, delivering a rich, velvety coffee delight
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Cappuccino * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu1.jpg" className="has-popup-image">
-                      <img src="images/menu1.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Cappuccino</h5>
-                    <div className="subname">
-                      Perfect harmony of espresso, steamed milk, and a velvety foam, creating a rich, satisfying blend
-                    </div>
-                  </div>
-                </div>
-              </div> */}
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Hot Chocolate */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
@@ -272,7 +164,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/hot_choc.jpg" className="has-popup-image">
-                      <img src="images/hot_choc.jpg" alt="image" />
+                      <img src="images/hot_choc.jpg" alt="hot chocolate" />
                     </a>
                   </div>
                   <div className="desc">
@@ -290,7 +182,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/matcha_latte_iced.jpg" className="has-popup-image">
-                      <img src="images/matcha_latte_iced.jpg" alt="image" />
+                      <img src="images/matcha_latte_iced.jpg" alt="iced matcha latte" />
                     </a>
                   </div>
                   <div className="desc">
@@ -301,24 +193,6 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Hot Tea (sachets) * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/menu4.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Hot Tea</h5>
-                    <div className="subname">
-                      Elevate your experience with our premium selection of aromatic and soothing tea varieties
-                    </div>
-                  </div>
-                </div>
-              </div> */}
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Blended Mocha Frappe */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
@@ -326,7 +200,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/frappe-mocha.jpg" className="has-popup-image">
-                      <img src="images/frappe-mocha.jpg" alt="image" />
+                      <img src="images/frappe-mocha.jpg" alt="blended mocha frappe" />
                     </a>
                   </div>
                   <div className="desc">
@@ -337,60 +211,6 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Jet Tea Smoothie * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu6.jpg" className="has-popup-image">
-                      <img src="images/menu6.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Jet Tea Smoothie</h5>
-                    <div className="subname">
-                      A velvety fusion of vibrant fruit flavors, ice, and a smooth base for a refreshing, tropical delight
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Shark Bait * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu3.jpg" className="has-popup-image">
-                      <img src="images/menu3.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Shark Bait</h5>
-                    <div className="subname">
-                      Lotus Blue Energy, strawberry syrup, and ice unite for a refreshing energy splash
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* The Berry Pink * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu4.jpg" className="has-popup-image">
-                      <img src="images/menu4.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">The Berry Pink</h5>
-                    <div className="subname">
-                      Lotus Pink Energy, strawberry syrup, raspberry syrup, and ice for a vibrant burst
-                    </div>
-                  </div>
-                </div>
-              </div> */}
               <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Green Apple */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
@@ -398,7 +218,7 @@ const Index = () => {
                 >
                   <div className="image kf-image-hover">
                     <a href="images/lotus_green_apple.jpg" className="has-popup-image">
-                      <img src="images/lotus_green_apple.jpg" alt="image" />
+                      <img src="images/lotus_green_apple.jpg" alt="green apple lotus" />
                     </a>
                   </div>
                   <div className="desc">
@@ -409,24 +229,6 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* The Patriot * /}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/menu5.jpg" className="has-popup-image">
-                      <img src="images/menu5.jpg" alt="image" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">The Patriot</h5>
-                    <div className="subname">
-                      Lotus Blue Energy, white chocolate, strawberry, and raspberry over ice—a star-spangled blend
-                    </div>
-                  </div>
-                </div>
-              </div> */}
             </div>
           </div>
           <div style={{ width: '100%', display: 'flex' }}>
@@ -469,7 +271,7 @@ const Index = () => {
                 className="kf-choose-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/bf_counter.jpg" alt="image" />
+                <img src="images/bf_counter.jpg" alt="close up of counter highlighting the espresso machine" />
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 offset-lg-1 align-self-center">
@@ -507,7 +309,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon1.png" alt="image" />
+                      <img src="images/choose_icon1.png" alt="coffee beans icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Driven Perfection in Every Sip</h5>
@@ -523,7 +325,7 @@ const Index = () => {
                     data-animate="active"
                   >
                     <div className="icon">
-                      <img src="images/choose_icon2.png" alt="image" />
+                      <img src="images/choose_icon2.png" alt="coffee cup icon" />
                     </div>
                     <div className="desc">
                       <h5 className="name">Farm-Fresh Dairy Excellence</h5>
@@ -562,7 +364,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/latte_hot.jpg" className="has-popup-image">
-                    <img src="images/latte_hot.jpg" alt="image" />
+                    <img src="images/latte_hot.jpg" alt="hot latte" />
                   </a>
                 </div>
                 <div className="desc">
@@ -577,7 +379,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/mocha_iced.jpg" className="has-popup-image">
-                    <img src="images/mocha_iced.jpg" alt="image" />
+                    <img src="images/mocha_iced.jpg" alt="iced mocha" />
                   </a>
                 </div>
                 <div className="desc">
@@ -592,7 +394,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/lotus_shark_bite.jpg" className="has-popup-image">
-                    <img src="images/lotus_shark_bite.jpg" alt="image" />
+                    <img src="images/lotus_shark_bite.jpg" alt="shark bite lotus" />
                   </a>
                 </div>
                 <div className="desc">
@@ -607,7 +409,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/black_tea.jpg" className="has-popup-image">
-                    <img src="images/black_tea.jpg" alt="image" />
+                    <img src="images/black_tea.jpg" alt="black tea bag" />
                   </a>
                 </div>
                 <div className="desc">
@@ -622,7 +424,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/fruit-smoothie.jpg" className="has-popup-image">
-                    <img src="images/fruit-smoothie.jpg" alt="image" />
+                    <img src="images/fruit-smoothie.jpg" alt="fruit smoothie" />
                   </a>
                 </div>
                 <div className="desc">
@@ -637,7 +439,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/americano-coffee.jpg" className="has-popup-image">
-                    <img src="images/americano-coffee.jpg" alt="image" />
+                    <img src="images/americano-coffee.jpg" alt="americano" />
                   </a>
                 </div>
                 <div className="desc">
@@ -652,7 +454,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/biscuits-full.jpg" className="has-popup-image">
-                    <img src="images/biscuits-full.jpg" alt="image" />
+                    <img src="images/biscuits-full.jpg" alt="biscuits and sausage gravy" />
                   </a>
                 </div>
                 <div className="desc">
@@ -667,7 +469,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/caramel_macch.jpg" className="has-popup-image">
-                    <img src="images/caramel_macch.jpg" alt="image" />
+                    <img src="images/caramel_macch.jpg" alt="caramel macchiato" />
                   </a>
                 </div>
                 <div className="desc">
@@ -682,7 +484,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/frappe-vanilla.jpg" className="has-popup-image">
-                    <img src="images/frappe-vanilla.jpg" alt="image" />
+                    <img src="images/frappe-vanilla.jpg" alt="blended vanilla frappe" />
                   </a>
                 </div>
                 <div className="desc">
@@ -697,7 +499,7 @@ const Index = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/sand-bagel.jpg" className="has-popup-image">
-                    <img src="images/sand-bagel.jpg" alt="image" />
+                    <img src="images/sand-bagel.jpg" alt="sausage bagel sandwich" />
                   </a>
                 </div>
                 <div className="desc">

@@ -16,7 +16,7 @@ const Preloader = () => {
       >
         <div className="vertical-center">
           <div className="spinner-logo">
-            <img src="images/bf-logo-white.svg" alt="image" style={{ maxHeight: 'fit-content', maxWidth: '16rem' }} />
+            <img src="images/bf-logo-white.svg" alt="Brioux Falls logo in white" style={{ maxHeight: 'fit-content', maxWidth: '16rem' }} />
             <div className="spinner-dot">
               <div className="spinner-line" />
             </div>

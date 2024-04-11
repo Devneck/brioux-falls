@@ -82,7 +82,7 @@ const Footer = () => {
                     href="images/steam milk 2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/steam milk 2.jpg" alt="image" />
+                    <img src="images/steam_milk_2.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
@@ -106,7 +106,7 @@ const Footer = () => {
                     href="images/hot drink.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/hot drink.jpg" alt="image" />
+                    <img src="images/hot_drink.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
@@ -114,7 +114,7 @@ const Footer = () => {
                     href="images/pour milk.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/pour milk.jpg" alt="image" />
+                    <img src="images/pour_milk.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
@@ -130,7 +130,7 @@ const Footer = () => {
                     href="images/store 2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/store 2.jpg" alt="image" />
+                    <img src="images/store_2.jpg" alt="image" />
                   </a>
                 </li>
                 <li>
@@ -138,7 +138,7 @@ const Footer = () => {
                     href="images/pour shots 2.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/pour shots 2.jpg" alt="image" />
+                    <img src="images/pour_shots_2.jpg" alt="image" />
                   </a>
                 </li>
               </ul>

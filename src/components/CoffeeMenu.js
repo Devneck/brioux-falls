@@ -545,7 +545,7 @@ const CoffeeMenu = () => {
               >
                 <div className="image kf-image-hover">
                   <a href="images/menu1.jpg" className="has-popup-image">
-                    <img src="images/menu1.jpg" alt="muffins" />
+                    <img src="images/menu1.jpg" alt="assorted muffins" />
                   </a>
                 </div>
                 <div className="desc">
@@ -562,14 +562,14 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/menu2.jpg" className="has-popup-image">
-                    <img src="images/menu2.jpg" alt="bagels" />
+                  <a href="images/bagels.jpg" className="has-popup-image">
+                    <img src="images/bagels.jpg" alt="assorted bagels" />
                   </a>
                 </div>
                 <div className="desc">
                   <h5 className="name">Bagels</h5>
                   <div className="subname">
-                    Enjoy a variety of bagels, including gluten-free options, for a convenient and satisfying choice
+                    Enjoy a variety of bagels for a convenient and satisfying choice
                   </div>
                 </div>
               </div>

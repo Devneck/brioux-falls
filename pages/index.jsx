@@ -393,8 +393,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/lotus_shark_bite.jpg" className="has-popup-image">
-                    <img src="images/lotus_shark_bite.jpg" alt="shark bite lotus" />
+                  <a href="images/lotus-shark-bite.jpg" className="has-popup-image">
+                    <img src="images/lotus-shark-bite.jpg" alt="shark bite lotus" />
                   </a>
                 </div>
                 <div className="desc">

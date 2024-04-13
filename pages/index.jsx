@@ -335,7 +335,7 @@ const Index = () => {
                         features wholesome milk, creamy yogurt, and other delightful dairy treats. 
                         Indulge in the richness of nature's goodness, straight from the farm. 
                         Taste the difference of quality and care in every sip and spoonful, as 
-                        we bring you the essence of pure dairy bliss to you - one cup at a time.
+                        we bring you the essence of pure dairy bliss - one cup at a time.
                       </div>
                     </div>
                   </li>

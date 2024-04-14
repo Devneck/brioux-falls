@@ -544,8 +544,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/menu1.jpg" className="has-popup-image">
-                    <img src="images/menu1.jpg" alt="assorted muffins" />
+                  <a href="images/muffins.jpg" className="has-popup-image">
+                    <img src="images/muffins.jpg" alt="assorted muffins" />
                   </a>
                 </div>
                 <div className="desc">
@@ -580,8 +580,8 @@ const CoffeeMenu = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/menu3.jpg" className="has-popup-image">
-                    <img src="images/menu3.jpg" alt="snack tray delight" />
+                  <a href="images/snack-tray.jpg" className="has-popup-image">
+                    <img src="images/snack-tray.jpg" alt="snack tray delight" />
                   </a>
                 </div>
                 <div className="desc">

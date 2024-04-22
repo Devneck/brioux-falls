@@ -1,4 +1,5 @@
 import Layouts from "@/src/layouts/Layouts";
+import Link from "next/link";
 
 import dynamic from "next/dynamic";
 
@@ -27,6 +28,42 @@ const MenuCoffee = () => {
       </section>
       {/* Section Menu */}
       <CoffeeMenu />
+      <section
+        className="section kf-cta kf-parallax"
+        style={{ backgroundImage: "url(images/cta_bg.jpg)" }}
+      >
+        <div className="container">
+          <div className="row">
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+              <div className="kf-titles">
+                <div
+                  className="kf-subtitle element-anim-1 scroll-animate"
+                  data-animate="active"
+                >
+                  Need to Grab and Go
+                </div>
+                <h3
+                  className="kf-title element-anim-1 scroll-animate"
+                  data-animate="active"
+                >
+                  Place An Order Online for Pickup
+                </h3>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 align-self-center align-right">
+              <Link
+                href="https://brioux-falls.square.site/"
+                className="kf-btn element-anim-1 scroll-animate"
+                data-animate="active"
+                target="_blank"
+              >
+                <span>order now</span>
+                <i className="fas fa-chevron-right" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
       {/* Section Brands */}
       {/* <div className="section kf-brands">
         <div className="container">

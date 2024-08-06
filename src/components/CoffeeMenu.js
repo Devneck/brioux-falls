@@ -574,7 +574,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch snack food"> {/* Snack Tray */}
+            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch snack food"> {/* Snack Tray * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -592,7 +592,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* Soups */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* Soups * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -610,7 +610,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast snack food"> {/* Yogurt Cup */}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast snack food"> {/* Yogurt Cup * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -627,7 +627,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+          </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* B&G */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -663,8 +663,8 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div> */}
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all snack food"> {/* Snacks */}
+            </div> * /}
+            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all snack food"> {/* Snacks * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -681,7 +681,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+        </div> */}
           </div>
         </div>
       </div>

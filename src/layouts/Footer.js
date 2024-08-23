@@ -26,7 +26,7 @@ const Footer = () => {
               <ul>
                 <li>
                   Mon - Friday
-                  <em>07:00 am - 03:00pm</em>
+                  <em>07:00 am - 02:00pm</em>
                 </li>
                 <li>
                   <strong>Thanksgiving Closed</strong>

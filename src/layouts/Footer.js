@@ -29,6 +29,15 @@ const Footer = () => {
                   <em>07:00 am - 02:00pm</em>
                 </li>
                 <li>
+                  <strong>Memorial Day 2024 Closed</strong>
+                </li>
+                <li>
+                  <strong>4th & 5th of July 2024 Closed</strong>
+                </li>
+                <li>
+                  <strong>Labor Day 2024 Closed</strong>
+                </li>
+                <li>
                   <strong>Thanksgiving Closed</strong>
                 </li>
                 <li>

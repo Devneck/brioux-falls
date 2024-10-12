@@ -84,7 +84,7 @@ const Header = () => {
                   <Link href="menu-coffee">Menu</Link>
                 </li>
                 <li>
-                  <a href="https://brioux-falls.square.site/" target="_blank">Order Now</a>
+                  <a href="https://order.dripos.com/Brioux-Falls" target="_blank">Order Now</a>
                 </li>
                 <li>
                   <Link href="contacts">Contact</Link>
@@ -122,7 +122,7 @@ const Header = () => {
               <Link href="menu-coffee">Menu</Link>
             </li>
             <li>
-              <a href="https://brioux-falls.square.site/" target="_blank">Order Now</a>
+              <a href="https://order.dripos.com/Brioux-Falls" target="_blank">Order Now</a>
             </li>
             <li>
               <Link href="contacts">Contact</Link>

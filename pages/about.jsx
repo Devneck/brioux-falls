@@ -170,7 +170,7 @@ const About = () => {
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 align-self-center align-right">
               <Link
-                href="https://brioux-falls.square.site/"
+                href="https://order.dripos.com/Brioux-Falls"
                 className="kf-btn element-anim-1 scroll-animate"
                 data-animate="active"
                 target="_blank"

@@ -64,11 +64,8 @@ const Directions = () => {
               of the parking ramp. Stay to the right while entering the parking ramp and proceed
               up the ramp and to the right.
             </p>
-            <h5>
-              Please only park on levels 2, 3 & 4
-            </h5>
             <p>
-              Skywalk access is located on Level 3 of the parking ramp. Use the Skywalk access to enter
+              Skywalk access is located on Level 2 of the parking ramp. Use the Skywalk access to enter
               the Office tower.
             </p>
           </div>
@@ -92,7 +89,7 @@ const Directions = () => {
               Enter The Steel District off E 4th Place north of the parking ramp (Identified as
               "Deliveries Only" in the map, construction may be in progress in the area). Enter
               through the first door after the bricks/retail strip on the right to gain access
-              to the parking garage. Take stairs or elevator to 3rd floor of parking garage.
+              to the parking garage. Take stairs or elevator to 2nd floor of parking garage.
               Go out into the parking garage and use the Skywalk access to enter the Office tower.
             </p>
             <h5>

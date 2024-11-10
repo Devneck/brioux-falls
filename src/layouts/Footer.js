@@ -41,6 +41,12 @@ const Footer = () => {
                   <strong>Thanksgiving Closed</strong>
                 </li>
                 <li>
+                  <strong>Black Friday 2024 Closed</strong>
+                </li>
+                <li>
+                  <strong>Dec 13-16 Closed</strong>
+                </li>
+                <li>
                   <strong>Christmas Closed</strong>
                 </li>
                 <li></li>

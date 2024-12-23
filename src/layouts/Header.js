@@ -17,11 +17,60 @@ const Header = () => {
     }
   }, [toggle]);
 
-  const [activeMenu, setActiveMenu] = useState("");
-  const activeMenuSet = (value) =>
-      setActiveMenu(activeMenu === value ? "" : value),
-    activeLi = (value) =>
-      value === activeMenu ? { display: "block" } : { display: "none" };
+  const normalizeDate = (date) => {
+    return new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  };
+
+  const hours = {
+    Sunday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T13:00:00') },
+    Monday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+    Tuesday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+    Wednesday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+    Thursday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+    Friday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+    Saturday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
+  };
+  
+  const extraClosedDates = [
+    // Month is 0 indexed
+    new Date(2024, 11, 25), // Christmas 2024
+    new Date(2025, 10, 27), // Thanksgiving 2025
+    new Date(2025, 11, 25), // Christmas 2025
+  ];
+
+  const isExtraClosedDate = (date) => {
+    const normalizedDate = normalizeDate(date);
+    console.log('test date', normalizedDate);
+    return extraClosedDates.some(closedDate => {
+      console.log('closed date', closedDate);
+      return normalizedDate.getTime() === normalizeDate(closedDate).getTime()
+    });
+  };
+
+  const getTodayHours = () => {
+    const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    const today = new Date();
+    const todayDay = today.getDay();
+
+    if (isExtraClosedDate(today)) {
+      return <em>* Closed For Holiday *</em>;
+    }
+
+    const todayHours = hours[daysOfWeek[todayDay]];
+    const { startTime, endTime } = todayHours;
+    const start = new Date(today.toDateString() + ' ' + startTime.toTimeString().split(' ')[0]);
+    const end = new Date(today.toDateString() + ' ' + endTime.toTimeString().split(' ')[0]);
+
+    if (today >= start && today <= end) {
+      return `${startTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} - ${endTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
+    } else {
+      return (
+        <>
+          {startTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} - {endTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} <em>* Closed *</em>
+        </>
+      );
+    }
+  };
 
   return (
     <header className={`kf-header ${toggle ? "animated" : ""}`}>
@@ -31,7 +80,7 @@ const Header = () => {
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             {/* hours */}
             <div className="kf-h-group">
-              <i className="far fa-clock" /> <em>opening hours :</em> Mon - Fri | 07:00 am - 02:00 pm
+              <i className="far fa-clock" /> <em>today's hours :</em> {getTodayHours()}
             </div>
           </div>
           <div className="col-xs-12 col-sm-6 col-md-4 col-lg-4 align-center">
@@ -155,7 +204,7 @@ const Header = () => {
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
               {/* hours */}
               <div className="kf-h-group">
-                <i className="far fa-clock" /> <em>opening hours :</em> Mon - Fri | 07:00 am - 02:00 pm
+                <i className="far fa-clock" /> <em>today's hours :</em> {getTodayHours()}
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">

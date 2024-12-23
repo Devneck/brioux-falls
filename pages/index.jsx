@@ -116,7 +116,7 @@ const Index = () => {
                   <div className="desc">
                     <h5 className="name">Mocha</h5>
                     <div className="subname">
-                      Decadent blend of espresso, rich chocolate, and velvety steamed milk for an indulgent, irresistible delight
+                      Indulge in our rich espresso blended with your choice of milk chocolate, white chocolate, or caramel for a perfectly balanced, sweet and creamy treat. Combined with steamed milk, this comforting classic is available hot or iced, making it the perfect choice for any time of year!
                     </div>
                   </div>
                 </div>
@@ -134,7 +134,7 @@ const Index = () => {
                   <div className="desc">
                     <h5 className="name">Chai Tea Latte</h5>
                     <div className="subname">
-                      A warming embrace of spiced black tea and steamed milk, crafting a cozy and flavorful indulgence
+                      Indulge in the warm spices of our chai tea latte, a delightful blend of aromatic chai and creamy milk. Perfectly balanced for a comforting sip, it’s available hot or iced, making it a cozy choice for any time of year.
                     </div>
                   </div>
                 </div>
@@ -152,7 +152,7 @@ const Index = () => {
                   <div className="desc">
                     <h5 className="name">Caramel Macchiato</h5>
                     <div className="subname">
-                      Luscious caramel drizzle over espresso and steamed milk for a sweet, layered coffee experience
+                      Experience the sweet symphony of our American-style Caramel Macchiato. Indulge in layers of vanilla-kissed milk and espresso, crowned with a caramel cascade—a blissful journey to coffee perfection, right in your hands.
                     </div>
                   </div>
                 </div>
@@ -193,38 +193,38 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Blended Mocha Frappe */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Blended Frappe */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
                     <a href="images/frappe-mocha.jpg" className="has-popup-image">
-                      <img src="images/frappe-mocha.jpg" alt="blended mocha frappe" />
+                      <img src="images/frappe-mocha.jpg" alt="blended frappe" />
                     </a>
                   </div>
                   <div className="desc">
-                    <h5 className="name">Blended Mocha Frappe</h5>
+                    <h5 className="name">Blended Frappe</h5>
                     <div className="subname">
-                      Indulge in a frosty fusion of rich coffee, ice, and cream, creating a deliciously refreshing treat
+                      Cool off with our creamy and indulgent frappe, blended to perfection for a smooth, refreshing treat. With a variety of rich flavors to choose from, each sip is a delightful blend of sweetness and icy goodness. Perfect for a quick pick-me-up or a tasty dessert in a cup!
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Green Apple */}
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Guava Lamp Lotus */}
                 <div
                   className="kf-menu-item element-anim-1 scroll-animate"
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/lotus_green_apple.jpg" className="has-popup-image">
-                      <img src="images/lotus_green_apple.jpg" alt="green apple lotus" />
+                    <a href="images/bf-logo-white.svg" className="has-popup-image">
+                      <img src="images/bf-logo-white.svg" alt="guava lamp lotus" />
                     </a>
                   </div>
                   <div className="desc">
-                    <h5 className="name">Green Apple</h5>
+                    <h5 className="name">Guava Lamp Lotus</h5>
                     <div className="subname">
-                      Lotus White Energy, sweet & sour mix, green apple, lime syrups over ice
+                      Light up your day with the vivid flavors of Flaming Orange and Pink Guava syrups, blended with energizing Pink Lotus and a sparkling finish of club soda. This vibrant drink is an electrifying pick-me-up with a unique twist!
                     </div>
                   </div>
                 </div>
@@ -429,12 +429,12 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/lotus-shark-bite.jpg" className="has-popup-image">
-                    <img src="images/lotus-shark-bite.jpg" alt="shark bite lotus" />
+                  <a href="images/lotus_berry_pink.jpg" className="has-popup-image">
+                    <img src="images/lotus_berry_pink.jpg" alt="the berry pink lotus" />
                   </a>
                 </div>
                 <div className="desc">
-                  <h5 className="name">Shark Bite</h5>
+                  <h5 className="name">The Berry Pink</h5>
                 </div>
               </div>
             </SwiperSlide>
@@ -480,6 +480,21 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Americano</h5>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+              <div
+                className="slide-item element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <div className="image kf-image-hover">
+                  <a href="images/bf-logo-white.svg" className="has-popup-image">
+                    <img src="images/bf-logo-white.svg" alt="guava lamp lotus" />
+                  </a>
+                </div>
+                <div className="desc">
+                  <h5 className="name">Guava Lamp Lotus</h5>
                 </div>
               </div>
             </SwiperSlide>

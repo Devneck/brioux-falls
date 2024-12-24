@@ -38,6 +38,9 @@ const Footer = () => {
                 <li>
                   <strong>Christmas Closed</strong>
                 </li>
+                <li>
+                  <strong>New Year's Day Closed</strong>
+                </li>
                 <li></li>
               </ul>
             </div>

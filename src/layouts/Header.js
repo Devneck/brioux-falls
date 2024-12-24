@@ -34,6 +34,7 @@ const Header = () => {
   const extraClosedDates = [
     // Month is 0 indexed
     new Date(2024, 11, 25), // Christmas 2024
+    new Date(2025, 0, 1), // New Year's Day 2025
     new Date(2025, 10, 27), // Thanksgiving 2025
     new Date(2025, 11, 25), // Christmas 2025
   ];

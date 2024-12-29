@@ -34,9 +34,13 @@ const Header = () => {
   const extraClosedDates = [
     // Month is 0 indexed
     new Date(2024, 11, 25), // Christmas 2024
-    new Date(2025, 0, 1), // New Year's Day 2025
     new Date(2025, 10, 27), // Thanksgiving 2025
     new Date(2025, 11, 25), // Christmas 2025
+  ];
+  
+  const specialHours = [
+    { date: new Date(2025, 0, 1), startTime: new Date('1970-01-01T09:00:00'), endTime: new Date('1970-01-01T13:00:00') }, // New Year's Day 2025
+    // Add more special hours as needed
   ];
 
   const isExtraClosedDate = (date) => {
@@ -47,6 +51,13 @@ const Header = () => {
       return normalizedDate.getTime() === normalizeDate(closedDate).getTime()
     });
   };
+  
+  const getSpecialHours = (date) => {
+    const normalizedDate = normalizeDate(date);
+    return specialHours.find(specialHour => 
+      normalizedDate.getTime() === normalizeDate(specialHour.date).getTime()
+    );
+  };
 
   const getTodayHours = () => {
     const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
@@ -55,6 +66,23 @@ const Header = () => {
 
     if (isExtraClosedDate(today)) {
       return <em>* Closed For Holiday *</em>;
+    }
+
+    const specialHour = getSpecialHours(today);
+    if (specialHour) {
+      const { startTime, endTime } = specialHour;
+      const start = new Date(today.toDateString() + ' ' + startTime.toTimeString().split(' ')[0]);
+      const end = new Date(today.toDateString() + ' ' + endTime.toTimeString().split(' ')[0]);
+
+      if (today >= start && today <= end) {
+        return `${startTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} - ${endTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`;
+      } else {
+        return (
+          <>
+            {startTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} - {endTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} <em>* Closed *</em>
+          </>
+        );
+      }
     }
 
     const todayHours = hours[daysOfWeek[todayDay]];

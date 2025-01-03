@@ -110,10 +110,10 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="images/hot_drink.jpg"
+                    href="images/cold_brioux_logo.jpg"
                     className="kf-image-hover has-popup-image"
                   >
-                    <img src="images/hot_drink.jpg" alt="branded hot cup in front of tile backsplash" />
+                    <img src="images/cold_brioux_logo.jpg" alt="Cold Brioux in front of Logo" />
                   </a>
                 </li>
                 <li>

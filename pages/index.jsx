@@ -217,8 +217,8 @@ const Index = () => {
                   data-animate="active"
                 >
                   <div className="image kf-image-hover">
-                    <a href="images/bf-logo-white.svg" className="has-popup-image">
-                      <img src="images/bf-logo-white.svg" alt="guava lamp lotus" />
+                    <a href="images/drinks/guava_lamp_lotus.jpg" className="has-popup-image">
+                      <img src="images/drinks/guava_lamp_lotus.jpg" alt="guava lamp lotus" />
                     </a>
                   </div>
                   <div className="desc">
@@ -504,8 +504,8 @@ const Index = () => {
                 data-animate="active"
               >
                 <div className="image kf-image-hover">
-                  <a href="images/bf-logo-white.svg" className="has-popup-image">
-                    <img src="images/bf-logo-white.svg" alt="guava lamp lotus" />
+                  <a href="images/drinks/guava_lamp_lotus.jpg" className="has-popup-image">
+                    <img src="images/drinks/guava_lamp_lotus.jpg" alt="guava lamp lotus" />
                   </a>
                 </div>
                 <div className="desc">

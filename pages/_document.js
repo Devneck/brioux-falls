@@ -61,6 +61,16 @@ export default function Document() {
         <link rel="stylesheet" href="style.css" type="text/css" media="all" />
         <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" />
         <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+        {/* <!-- Google tag (gtag.js) --> */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16790192227"></script>
+          <script dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-16790192227');
+            `,
+          }} />
       </Head>
       <body>
         <Main />

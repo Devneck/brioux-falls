@@ -30,7 +30,7 @@ const Footer = () => {
                 </li>
                 <li>
                   Sunday
-                  <em>07:00 am - 01:00 pm</em>
+                  <em>08:00 am - 01:00 pm</em>
                 </li>
                 <li>
                   <strong>Thanksgiving Closed</strong>

@@ -22,7 +22,7 @@ const Header = () => {
   };
 
   const hours = {
-    Sunday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T13:00:00') },
+    Sunday: { startTime: new Date('1970-01-01T08:00:00'), endTime: new Date('1970-01-01T13:00:00') },
     Monday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
     Tuesday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },
     Wednesday: { startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T14:00:00') },

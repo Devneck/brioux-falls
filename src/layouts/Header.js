@@ -161,9 +161,9 @@ const Header = () => {
                 <li>
                   <Link href="menu-coffee">Menu</Link>
                 </li>
-                <li>
+                {/* <li>
                   <a href="https://order.dripos.com/Brioux-Falls" target="_blank">Order Now</a>
-                </li>
+                </li> */}
                 <li>
                   <Link href="contacts">Contact</Link>
                 </li>
@@ -199,9 +199,9 @@ const Header = () => {
             <li>
               <Link href="menu-coffee">Menu</Link>
             </li>
-            <li>
+            {/* <li>
               <a href="https://order.dripos.com/Brioux-Falls" target="_blank">Order Now</a>
-            </li>
+            </li> */}
             <li>
               <Link href="contacts">Contact</Link>
             </li>

@@ -51,7 +51,7 @@ const MenuCoffee = () => {
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 align-self-center align-right">
-              <Link
+              {/* <Link
                 href="https://order.dripos.com/Brioux-Falls"
                 className="kf-btn element-anim-1 scroll-animate"
                 data-animate="active"
@@ -59,7 +59,7 @@ const MenuCoffee = () => {
               >
                 <span>order now</span>
                 <i className="fas fa-chevron-right" />
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>

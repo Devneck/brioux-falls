@@ -747,24 +747,6 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            {/* <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* Soup of week * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/food/bread_bowl.jpg" className="has-popup-image">
-                    <img src="images/food/bread_bowl.jpg" alt="soup" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Wednesday Soup Special</h5>
-                  <div className="subname">
-                    Warm up with our delicious soup of the day! Choose a cup, pair it as a combo with any sandwich, or enjoy it served in a hearty bread bowl. Currently featuring our fan-favorite Ultimate Baked Potato Soup, loaded with comfort and flavor.
-                  </div>
-                </div>
-              </div>
-            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all lunch food"> {/* BLT */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
@@ -778,7 +760,7 @@ const CoffeeMenu = () => {
                 <div className="desc">
                   <h5 className="name">BLT</h5>
                   <div className="subname">
-                    A classic combination of crispy bacon, fresh lettuce, and ripe tomatoes, served on toasted ciabatta bread. Paired with crunchy kettle chips for a perfect bite every time. On Wednesdays, enjoy this delicious sandwich as part of our Soup and Sandwich Combo!
+                    A classic combination of crispy bacon, fresh lettuce, and ripe tomatoes, served on toasted ciabatta bread. Paired with crunchy kettle chips for a perfect bite every time.
                   </div>
                 </div>
               </div>
@@ -796,7 +778,7 @@ const CoffeeMenu = () => {
                 <div className="desc">
                   <h5 className="name">Turkey Melt</h5>
                   <div className="subname">
-                    Sliced turkey, crispy bacon, melted cheddar cheese, creamy mayo, fresh lettuce, and juicy tomato, all stacked on toasted ciabatta bread for a savory, satisfying melt. Served with crunchy kettle chips for the perfect pairing. On Wednesdays, enjoy this delicious sandwich as part of our Soup and Sandwich Combo!
+                    Sliced turkey, crispy bacon, melted cheddar cheese, creamy mayo, fresh lettuce, and juicy tomato, all stacked on toasted ciabatta bread for a savory, satisfying melt. Served with crunchy kettle chips for the perfect pairing.
                   </div>
                 </div>
               </div>
@@ -814,7 +796,7 @@ const CoffeeMenu = () => {
                 <div className="desc">
                   <h5 className="name">Cold Turkey Sandwich</h5>
                   <div className="subname">
-                    Sliced turkey, cheddar cheese, crisp lettuce, juicy tomato, and creamy mayo, all nestled between two slices of hearty 12-grain bread. Served with crunchy kettle chips for the perfect pairing. Enjoy it as a combo with your choice of soup on Wednesdays!
+                    Sliced turkey, cheddar cheese, crisp lettuce, juicy tomato, and creamy mayo, all nestled between two slices of hearty 12-grain bread. Served with crunchy kettle chips for the perfect pairing.
                   </div>
                 </div>
               </div>

@@ -693,7 +693,7 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Breakfast Burrito */}
+            {/*<div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Breakfast Burrito * /}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"
                 data-animate="active"
@@ -710,7 +710,7 @@ const CoffeeMenu = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Breakfast Sandwich */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"

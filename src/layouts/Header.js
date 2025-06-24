@@ -168,7 +168,7 @@ const Header = () => {
                   <Link href="contacts">Contact</Link>
                 </li>
                 <li>
-                  <Link href="directions">Find Us</Link>
+                  <Link href="directions">Directions</Link>
                 </li>
               </ul>
             </div>
@@ -206,7 +206,7 @@ const Header = () => {
               <Link href="contacts">Contact</Link>
             </li>
             <li>
-              <Link href="directions">Find Us</Link>
+              <Link href="directions">Directions</Link>
             </li>
           </ul>
         </div>

@@ -693,24 +693,6 @@ const CoffeeMenu = () => {
                 </div>
               </div>
             </div>
-            {/*<div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Breakfast Burrito * /}
-              <div
-                className="kf-menu-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/food/breakfast_burrito.jpg" className="has-popup-image">
-                    <img src="images/food/breakfast_burrito.jpg" alt="breakfast burrito" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Breakfast Burrito</h5>
-                  <div className="subname">
-                    Start your day right with our hearty breakfast burritos, available in Pork Sausage, Bacon, or Veggie. Each burrito is packed with savory fillings and cooked to order for a perfectly warm and satisfying breakfast. Ready when you are!
-                  </div>
-                </div>
-              </div>
-            </div> */}
             <div className="kf-menu-item-col col-xs-12 col-sm-12 col-md-12 col-lg-6 all breakfast food"> {/* Breakfast Sandwich */}
               <div
                 className="kf-menu-item element-anim-1 scroll-animate"

@@ -10,6 +10,52 @@ const Index = () => {
     <Layouts>
       {/* Section Started Slider */}
       <MainSlider />
+
+      {/* Section Jobs CTA */}
+      <section
+        className="section jobs-announcement"
+        style={{ backgroundImage: "url(images/category_bg.jpeg)", backgroundSize: 'cover', backgroundPosition: 'center', padding: '3rem 0 0 0' }}>
+        <div className="container">
+          <div className="row">
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+              <div className="kf-titles">
+                <div
+                  className="kf-subtitle element-anim-1 scroll-animate"
+                  data-animate="active"
+                >
+                  We’re Hiring!
+                </div>
+                <h3
+                  className="kf-title element-anim-1 scroll-animate"
+                  data-animate="active"
+                >
+                  Brew Your Future with Brioux Falls!
+                </h3>
+                <div
+                  className="kf-text element-anim-1 scroll-animate"
+                  data-animate="active"
+                  style={{ maxWidth: 600 }}
+                >
+                  <p>
+                    Join our crew as a part-time barista. Craft drinks, spread joy, and enjoy perks like free drinks and gym access. No experience needed—we’ll train you!
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 align-self-center align-right">
+              <Link
+                href="/jobs"
+                className="kf-btn element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                <span>learn more</span>
+                <i className="fas fa-chevron-right" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Section About */}
       <section className="section kf-about section-bg">
         <div className="container">

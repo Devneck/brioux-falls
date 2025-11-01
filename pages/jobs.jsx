@@ -31,7 +31,10 @@ const Jobs = () => {
             >
               Career Opportunities
             </div>
-            <h3
+            <h3 className="kf-title element-anim-1 scroll-animate" data-animate="active">
+              No current openings, but we're always excited to meet passionate individuals!
+            </h3>
+            {/* <h3
               className="kf-title element-anim-1 scroll-animate"
               data-animate="active"
             >
@@ -101,7 +104,7 @@ const Jobs = () => {
                   <span>apply now</span>
                   <i className="fas fa-chevron-right" />
                 </Link>
-              </div>
+              </div> */}
             </div>
           </div>
       </section>

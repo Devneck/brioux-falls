@@ -40,14 +40,13 @@ const Header = () => {
   
   const specialHours = [
     { date: new Date(2025, 0, 1), startTime: new Date('1970-01-01T09:00:00'), endTime: new Date('1970-01-01T13:00:00') }, // New Year's Day 2025
+    { date: new Date(2025, 10, 21), startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T19:00:00') }, // Falls Lighting Event 2025
     // Add more special hours as needed
   ];
 
   const isExtraClosedDate = (date) => {
     const normalizedDate = normalizeDate(date);
-    console.log('test date', normalizedDate);
     return extraClosedDates.some(closedDate => {
-      console.log('closed date', closedDate);
       return normalizedDate.getTime() === normalizeDate(closedDate).getTime()
     });
   };

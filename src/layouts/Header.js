@@ -41,6 +41,9 @@ const Header = () => {
   const specialHours = [
     { date: new Date(2025, 0, 1), startTime: new Date('1970-01-01T09:00:00'), endTime: new Date('1970-01-01T13:00:00') }, // New Year's Day 2025
     { date: new Date(2025, 10, 21), startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T19:00:00') }, // Falls Lighting Event 2025
+    { date: new Date(2025, 10, 26), startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T12:00:00') }, // Day before Thanksgiving 2025
+    { date: new Date(2025, 11, 24), startTime: new Date('1970-01-01T07:00:00'), endTime: new Date('1970-01-01T12:00:00') }, // Christmas Eve 2025
+    { date: new Date(2026, 0, 1), startTime: new Date('1970-01-01T08:00:00'), endTime: new Date('1970-01-01T14:00:00') }, // New Year's Day 2026
     // Add more special hours as needed
   ];
 

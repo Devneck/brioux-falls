@@ -39,7 +39,7 @@ const Footer = () => {
                   <strong>Christmas Closed</strong>
                 </li>
                 <li>
-                  <strong>New Year's Day 2025 09:00 am - 01:00 pm</strong>
+                  <strong>New Year's Day 2026 08:00 am - 02:00 pm</strong>
                 </li>
                 <li></li>
               </ul>

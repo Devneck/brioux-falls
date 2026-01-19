@@ -36,6 +36,9 @@ const Header = () => {
     new Date(2024, 11, 25), // Christmas 2024
     new Date(2025, 10, 27), // Thanksgiving 2025
     new Date(2025, 11, 25), // Christmas 2025
+    new Date(2026, 0, 20), // Medical days for kim
+    new Date(2026, 0, 26), // Medical days for kim
+    new Date(2026, 0, 27), // Medical days for kim
   ];
   
   const specialHours = [

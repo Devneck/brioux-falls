@@ -24,6 +24,7 @@ const Footer = () => {
             >
               <h5>Working Hours</h5>
               <ul>
+                <li>Monday - Closed</li>
                 <li>
                   Tuesday - Saturday
                   <em>07:00 am - 02:00 pm</em>
@@ -33,13 +34,10 @@ const Footer = () => {
                   <em>08:00 am - 01:00 pm</em>
                 </li>
                 <li>
-                  <strong>Thanksgiving Closed</strong>
+                  <strong>Thanksgiving - Closed</strong>
                 </li>
                 <li>
-                  <strong>Christmas Closed</strong>
-                </li>
-                <li>
-                  <strong>New Year's Day 2026 08:00 am - 02:00 pm</strong>
+                  <strong>Christmas - Closed</strong>
                 </li>
                 <li></li>
               </ul>

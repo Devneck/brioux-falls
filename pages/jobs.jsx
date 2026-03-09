@@ -31,24 +31,25 @@ const Jobs = () => {
             >
               Career Opportunities
             </div>
-            <h3 className="kf-title element-anim-1 scroll-animate" data-animate="active">
+            {/* <h3 className="kf-title element-anim-1 scroll-animate" data-animate="active">
               No current openings, but we're always excited to meet passionate individuals!
-            </h3>
-            {/* <h3
+            </h3> */}
+            <h3
               className="kf-title element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Part-Time Barista at Brioux Falls Coffee
+              High Hours Part-Time Barista at Brioux Falls Coffee
             </h3>
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <p>
                   Ready to brew some magic in Sioux Falls’ vibrant Steel District? 
                   Join the Brioux Falls Coffee crew as a part-time barista 
-                  (15-25 hours/week, including weekends) at our family-run coffee shop! 
+                  (26-29 hours/week, includes weekends rotating schedule) at our family-run coffee shop! 
                   We’re all about coffee, creativity, and community, creating a cozy, 
                   energetic space where locals and visitors connect over quality drinks 
                   and quick bites.
                 </p>
+                <p>This position will have the opportunity to become full-time in the next couple months!</p>
                 <h5
                   className="kf-subtitle element-anim-1 scroll-animate"
                   data-animate="active"
@@ -84,7 +85,7 @@ const Jobs = () => {
                   Why Join Us?
                 </h5>
                 <p>
-                  If you’re 16+, love coffee, and vibe with our welcoming atmosphere, 
+                  If you’re 18+, love coffee, and vibe with our welcoming atmosphere, 
                   we can’t wait to meet you! Apply now to join Brioux Falls and make 
                   every sip a moment of joy in <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link>.
                 </p>
@@ -104,7 +105,7 @@ const Jobs = () => {
                   <span>apply now</span>
                   <i className="fas fa-chevron-right" />
                 </Link>
-              </div> */}
+              </div>
             </div>
           </div>
       </section>

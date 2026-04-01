@@ -35,21 +35,20 @@ const Jobs = () => {
               No current openings, but we're always excited to meet passionate individuals!
             </h3> */}
             <h3
-              className="kf-title element-anim-1 scroll-animate"
-              data-animate="active"
-            >
-              High Hours Part-Time Barista at Brioux Falls Coffee
-            </h3>
-            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                className="kf-title element-anim-1 scroll-animate"
+                data-animate="active"
+              >
+                Barista (Part-Time) at Brioux Falls Coffee
+              </h3>
+              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <p>
-                  Ready to brew some magic in Sioux Falls’ vibrant Steel District? 
-                  Join the Brioux Falls Coffee crew as a part-time barista 
-                  (26-29 hours/week, includes weekends rotating schedule) at our family-run coffee shop! 
+                  Ready to brioux some magic in Sioux Falls’ vibrant Steel District? 
+                  Join the Brioux Falls Coffee crew as a part-time barista! 
                   We’re all about coffee, creativity, and community, creating a cozy, 
                   energetic space where locals and visitors connect over quality drinks 
                   and quick bites.
                 </p>
-                <p>This position will have the opportunity to become full-time in the next couple months!</p>
+
                 <h5
                   className="kf-subtitle element-anim-1 scroll-animate"
                   data-animate="active"
@@ -58,12 +57,13 @@ const Jobs = () => {
                 </h5>
                 <p>
                   In this fun, fast-paced role, you’ll craft delicious drinks like our 
-                  signature French Toast Latte or Guava Lamp Lotus, prepare tasty bites, 
+                  signature French Toast Latte, prepare tasty bites, 
                   and deliver stellar customer service with a warm smile. You’ll keep 
                   our shop humming with daily tasks, ensuring every guest feels the 
                   Brioux Falls vibe. Great communication and teamwork are key to shining 
-                  with customers and our tight-knit crew.
+                  with our tight-knit crew.
                 </p>
+
                 <h5
                   className="kf-subtitle element-anim-1 scroll-animate"
                   data-animate="active"
@@ -74,10 +74,13 @@ const Jobs = () => {
                   No coffee experience? No problem! We’ll train the right candidate 
                   who brings enthusiasm, attention to detail, and a love for connecting 
                   with people. You’ll even get to flex your creativity by helping 
-                  design our monthly featured drinks. Enjoy awesome perks like free 
-                  drinks during your shift, access to our building’s weight/exercise room, 
-                  and a supportive team that feels like family.
+                  design our monthly featured drinks. 
                 </p>
+                <p>
+                  <strong>Availability:</strong> We are looking for candidates available 
+                  for part-time shifts, including weekends.
+                </p>
+
                 <h5
                   className="kf-subtitle element-anim-1 scroll-animate"
                   data-animate="active"
@@ -85,9 +88,14 @@ const Jobs = () => {
                   Why Join Us?
                 </h5>
                 <p>
-                  If you’re 18+, love coffee, and vibe with our welcoming atmosphere, 
-                  we can’t wait to meet you! Apply now to join Brioux Falls and make 
-                  every sip a moment of joy in <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link>.
+                  Enjoy awesome perks like free drinks during your shift, access to our 
+                  building’s weight/exercise room, and a supportive team that feels like 
+                  family. If you’re 18+, love coffee, and vibe with our welcoming 
+                  atmosphere, we’d love to hear from you! 
+                </p>
+                <p>
+                  Apply now to join Brioux Falls and make every sip a moment of joy in 
+                  <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link>.
                 </p>
               </div>
               <div

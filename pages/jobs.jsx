@@ -95,7 +95,7 @@ const Jobs = () => {
                 </p>
                 <p>
                   Apply now to join Brioux Falls and make every sip a moment of joy in 
-                  <Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link>.
+                  &nbsp;<Link href="https://www.thesteeldistrict.com/" target="_blank">The Steel District</Link>.
                 </p>
               </div>
               <div

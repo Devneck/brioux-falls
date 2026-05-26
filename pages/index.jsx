@@ -257,24 +257,6 @@ const Index = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6"> {/* Guava Lamp Lotus */}
-                <div
-                  className="kf-menu-item element-anim-1 scroll-animate"
-                  data-animate="active"
-                >
-                  <div className="image kf-image-hover">
-                    <a href="images/drinks/guava_lamp_lotus.jpg" className="has-popup-image">
-                      <img src="images/drinks/guava_lamp_lotus.jpg" alt="guava lamp lotus" />
-                    </a>
-                  </div>
-                  <div className="desc">
-                    <h5 className="name">Guava Lamp Lotus</h5>
-                    <div className="subname">
-                      Light up your day with the vivid flavors of Flaming Orange and Pink Guava syrups, blended with energizing Pink Lotus and a sparkling finish of club soda. This vibrant drink is an electrifying pick-me-up with a unique twist!
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           <div style={{ width: '100%', display: 'flex' }}>
@@ -541,21 +523,6 @@ const Index = () => {
                 </div>
                 <div className="desc">
                   <h5 className="name">Americano</h5>
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide className="swiper-slide">
-              <div
-                className="slide-item element-anim-1 scroll-animate"
-                data-animate="active"
-              >
-                <div className="image kf-image-hover">
-                  <a href="images/drinks/guava_lamp_lotus.jpg" className="has-popup-image">
-                    <img src="images/drinks/guava_lamp_lotus.jpg" alt="guava lamp lotus" />
-                  </a>
-                </div>
-                <div className="desc">
-                  <h5 className="name">Guava Lamp Lotus</h5>
                 </div>
               </div>
             </SwiperSlide>

@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"menu-coffee.jsx -> @/src/components/CoffeeMenu":{id:1022,files:["static/chunks/391.b52bd56e3165b287.js","static/chunks/22.d9f0219773803599.js"]}};

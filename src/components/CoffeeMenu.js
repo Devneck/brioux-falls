@@ -1,4 +1,3 @@
-import Isotope from "isotope-layout";
 import { useEffect, useRef, useState } from "react";
 
 const CoffeeMenu = () => {
@@ -7,6 +6,7 @@ const CoffeeMenu = () => {
   const [filterKey, setFilterKey] = useState("*");
   useEffect(() => {
     setTimeout(() => {
+      const Isotope = require("isotope-layout");
       isotope.current = new Isotope(".all-menu-items", {
         itemSelector: ".kf-menu-item-col",
         //    layoutMode: "fitRows",

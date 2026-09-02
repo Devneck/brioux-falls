@@ -173,7 +173,7 @@ const Header = () => {
                   <Link href="jobs">Jobs</Link>
                 </li>
                 <li>
-                  <a href="https://brioux-falls.square.site/" target="_blank">Order Now</a>
+                  <a href="https://cash.app/$briouxfalls" target="_blank">Order Now</a>
                 </li>
                 <li>
                   <Link href="contacts">Contact</Link>
